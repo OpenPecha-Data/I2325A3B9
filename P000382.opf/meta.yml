@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8464
   title: རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག་གི་རྒྱུད་བླ་མའི་འགྲེལ་པ།
-  volume: ''
+  volume:
+    85a6352b103c4368ae295e0dd774c2d1:
+      image_group_id: I1KG12615
+      title: Volume 1 of rong ston shes bya kun rig gi rgyud bla ma'i 'grel pa/
+      volume_number: 1
+      total_pages: 202
   author: ''
+ebook_metadata:
+  title: རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག་གི་རྒྱུད་བླ་མའི་འགྲེལ་པ།
+  author: ''
+  sku: P000382
+  cover: cover.jpg
+  layers:
+  - pagination
